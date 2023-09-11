@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<p align="center"> <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Rakeshkumar" /> </p> 
+<h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Rakesh Kumar <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Rakesh Kumar; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&theme=dracula&pause=1000">
+    </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk28284&label=Profile%20views&color=0e75b6&style=flat" alt="rk28284" /> </p>
-
+<h1 align="center">
+ <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
+About me
+ <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
+</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk28284" alt="rk28284" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rk28284" target="blank"><img src="https://img.shields.io/twitter/follow/rk28284?logo=twitter&style=for-the-badge" alt="rk28284" /></a> </p>
