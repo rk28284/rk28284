@@ -13,6 +13,17 @@
 About me
  <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
 </h1>
+
+💻🚀I am a dedicated and results-driven full-stack web developer with a relentless commitment to excellence. My journey into web development commenced at Masai School, where I cultivated proficiency in a wide spectrum of technologies, both on the front-end and back-end. 🔍🧠 My passion for problem-solving and aptitude for decoding patterns make me an asset to any team.🌟
+  ### 🧐 More About Me:
+
+- ☘️ &nbsp; I’m currently learning **full stack web development**
+- 🤝 &nbsp; I’m looking forward to work in software industry 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rk28284?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Portfilio](https://rk28284.github.io/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rakesh-kumar-b60317125/)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/drive/folders/1AvW3A-RFG0KdI9ELH3OkVSR7i3dhr-vr?usp=share_link)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk28284" alt="rk28284" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rk28284" target="blank"><img src="https://img.shields.io/twitter/follow/rk28284?logo=twitter&style=for-the-badge" alt="rk28284" /></a> </p>
