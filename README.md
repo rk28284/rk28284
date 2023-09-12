@@ -74,6 +74,30 @@ About me
 </div>
 
 <br/>
+
+<h2 align="center">
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
+ My Github Stats 
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
+</h2>
+ </h2>
+ <p align="center">
+<a href="https://github.com/rk28284">
+ </br>
+  <img  align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk28284&show_icons=true&locale=en&layout=compact&langs_count=8&theme=react&border_color=61dafb"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk28284" alt="rk28284" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rk28284" target="blank"><img src="https://img.shields.io/twitter/follow/rk28284?logo=twitter&style=for-the-badge" alt="rk28284" /></a> </p>
