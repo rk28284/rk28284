@@ -87,10 +87,14 @@ About me
   <img  align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk28284&show_icons=true&locale=en&layout=compact&langs_count=8&theme=react&border_color=61dafb"/>
 
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rk28284&theme=react&show_icons=true&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rk28284&bg_color=000000&theme=react&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
+ <div style="display: grid; grid-template-columns: repeat(2, 1fr); width: 95%; margin: auto;">
+  <div align="center">
+    <div style="display: flex; align-items: flex-start;">
+      <img src="https://github-readme-stats.vercel.app/api?username=rk28284&theme=react&show_icons=true&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF"/>
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rk28284&bg_color=000000&theme=react&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
+    </div>
   </div>
 </div>
+
+
 
