@@ -31,7 +31,7 @@ About me
 
 </p>
 
-  <h2 align="left">
+  <h2 align="center">
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
  Languages and Tools
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
