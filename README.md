@@ -100,17 +100,6 @@ About me
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk28284" alt="rk28284" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rk28284" target="blank"><img src="https://img.shields.io/twitter/follow/rk28284?logo=twitter&style=for-the-badge" alt="rk28284" /></a> </p>
-
-- 🌱 I’m currently learning **redux**
-
-- 👨‍💻 All of my projects are available at [https://rk28284.github.io/](https://rk28284.github.io/)
-
-- 💬 Ask me about **React,Javascript,Html,Css,**
-
-- 📫 How to reach me **rk28284@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1AvW3A-RFG0KdI9ELH3OkVSR7i3dhr-vr?usp=share_link](https://drive.google.com/drive/folders/1AvW3A-RFG0KdI9ELH3OkVSR7i3dhr-vr?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
