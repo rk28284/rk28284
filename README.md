@@ -86,7 +86,6 @@ About me
  </br>
   <img  align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk28284&show_icons=true&locale=en&layout=compact&langs_count=8&theme=react&border_color=61dafb"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk28284" alt="rk28284" /></a> </p>
 
 
 <p align="left">
