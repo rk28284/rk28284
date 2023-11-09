@@ -23,7 +23,7 @@ About me
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Portfilio](https://rk28284.github.io/)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rakesh-kumar-b60317125/)
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/drive/folders/1AvW3A-RFG0KdI9ELH3OkVSR7i3dhr-vr?usp=share_link)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/15_cPvDXqtO6w3-pr4lFc-lVr3qy_eGBI/view?usp=sharing)
 <h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/rakesh-kumar-b60317125/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakesh-kumar-b60317125/" height="30" width="40" /></a>
